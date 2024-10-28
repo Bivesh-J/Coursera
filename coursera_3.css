@@ -1,0 +1,44 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif; /* Change to your desired font */
+    font-size: 16px; /* Change to your desired font size */
+}
+
+/* Header Styling */
+header {
+    background-color: #4CAF50; /* Change to your desired background color */
+}
+
+/* Navigation Styling */
+nav {
+    background-color: #333; /* Change to your desired background color */
+}
+
+/* Main Section Styling */
+main {
+    background-color: #f4f4f4; /* Change to your desired background color */
+    font-size: 18px; /* Change to your desired font size */
+}
+
+/* Footer Styling */
+footer {
+    background-color: #222; /* Change to your desired background color */
+}
+
+/* List Item Styling */
+li {
+    display: inline-block; /* Change to your desired display type */
+    width: 150px; /* Change to your desired width */
+}
+
+/* H1 Styling */
+h1 {
+    text-align: center; /* Change to your desired text alignment */
+    font-family: 'Georgia', serif; /* Change to your desired font */
+    color: #333; /* Change to your desired color */
+}
+
+/* Paragraph Styling */
+p {
+    line-height: 1.6; /* Change to your desired line height */
+}
